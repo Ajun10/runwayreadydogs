@@ -1,0 +1,82 @@
+#title {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#subTitle {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #ffe563;
+  font-size: 50px;
+}
+#aboutUs {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+#topLine {
+  border-width: 5px;
+}
+.shopNow {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    right: 45%;
+    font-family: 'Roboto', sans-serif;
+}
+.shopNow1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+.shopNow1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+.about {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    right: 45%;
+    font-family: 'Roboto', sans-serif;
+}
+.about1 {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.about1:hover {
+    background-color: black;
+    color: white;
+}
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#aboutParagraph {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #ffe563;
+}
